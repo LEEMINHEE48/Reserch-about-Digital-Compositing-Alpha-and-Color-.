@@ -11,6 +11,8 @@ Of cource, you can scout many extra actor, but you must pay so many cost.
 In such situations, you can solve the problem to use Digitial Compositing technology. 
 You can express many people by modeling to use 3D Program or to use chroma – key technology. 
 
+![unnamed](https://user-images.githubusercontent.com/70868719/93621900-2f1f6580-fa17-11ea-8b6c-97246d0e1ca9.jpg)
+
 And you can compose movie by using compositing program looks natural by Lighting, Texturing, Rendering, color grading ... Etc 
 It can on some program for example ) Nuke, 3D Maya, Photoshop, After Effect… Etc
 
