@@ -23,6 +23,7 @@ So now I represent about principles and tech about Digitial Compositing.
 
 
 -	Chroma key compositing, or chroma keying, is a visual-effects and post-production technique for compositing (layering) two images or video streams together based on colour hues (chroma range)
+![remove-green-screen-and-chroma-key-and-do-more png](https://user-images.githubusercontent.com/70868719/93623253-60993080-fa19-11ea-9d42-297a299cbf7e.jpeg)
 
 
 -	Rotoscoping is started by technique that Animator copy film footage because of animation charicter’s realistic motion. Today, VFX artists are using Rotoscoping because of that delete wire, safety device, some unessential object….ETC. 
