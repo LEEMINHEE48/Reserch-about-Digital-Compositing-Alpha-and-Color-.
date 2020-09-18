@@ -14,5 +14,15 @@ You can express many people by modeling to use 3D Program or to use chroma – k
 ![unnamed](https://user-images.githubusercontent.com/70868719/93621900-2f1f6580-fa17-11ea-8b6c-97246d0e1ca9.jpg)
 
 And you can compose movie by using compositing program looks natural by Lighting, Texturing, Rendering, color grading ... Etc 
-It can on some program for example ) Nuke, 3D Maya, Photoshop, After Effect… Etc
+It can on some program for example ) Nuke, 3D Maya, Photoshop, Blackmagic Fusion, After Effect… Etc
+![blackmagic-fusion-interface](https://user-images.githubusercontent.com/70868719/93622702-8bcf5000-fa18-11ea-9ac8-2a450d527863.jpg)
+
+
+In modern film industry, Digitial Compositing technology is essential. 
+So now I represent about principles and tech about Digitial Compositing.
+
+
+#	Chroma key compositing, or chroma keying, is a visual-effects and post-production technique for compositing (layering) two images or video streams together based on colour hues (chroma range)
+-	Rotoscoping is started by technique that Animator copy film footage because of animation charicter’s realistic motion. Today, VFX artists are using Rotoscoping because of that delete wire, safety device, some unessential object….ETC. 
+-	Matte painting and Digital Matte is the oldest VFX technique.   
 
