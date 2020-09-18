@@ -90,6 +90,7 @@ It is usually use when design digital frame.
 - **CMYK( Cyan, Magenta, Yellow, Key)** is subtractive micture, so when you compose all color, It is more darker. 
 It is usually use when design print frame.
 
+![R1280x0 fjpg](https://user-images.githubusercontent.com/70868719/93625044-3c8b1e80-fa1c-11ea-85a5-a3660e9faac9.jpeg)
 
 
 **You can also utilize this concept when you purchase monitor.**
