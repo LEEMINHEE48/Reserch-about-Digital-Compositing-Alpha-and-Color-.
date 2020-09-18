@@ -55,6 +55,7 @@ Without color correction gels, a scene may have a mix of various colors. Applyin
 
 Alpha Channel
 =============
+
 The alpha channel is a color component that represents the degree of transparency (or opacity) of a color (i.e., the red, green and blue channels). It is used to determine how a pixel is rendered when blended with another.
 
 The alpha channel controls the transparency or opacity of a color. Its value can be represented as a real value, a percentage, or an integer: full transparency is 0.0, 0% or 0, whereas full opacity is 1.0, 100% or 255, respectively.
@@ -62,4 +63,39 @@ The alpha channel controls the transparency or opacity of a color. Its value can
 When a color (source) is blended with another color (background), e.g., when an image is overlaid onto another image, the alpha value of the source color is used to determine the resulting color. If the alpha value is opaque, the source color overwrites the destination color; if transparent, the source color is invisible, allowing the background color to show through. If the value is in between, the resulting color has a varying degree of transparency/opacity, which creates a translucent effect.
 
 The alpha channel is used primarily in alpha blending and alpha compositing.
-   
+
+![1*Amydsx8D6qttFXbPRk9yWg](https://user-images.githubusercontent.com/70868719/93624387-3cd6ea00-fa1b-11ea-8b22-356852fc32ca.jpeg)
+
+Color
+=====
+Color’s definition is light frequency that feel for color sence. 
+It is essential element in film and Digital compositing. 
+Exact color reproduction is the most important when we want to compose on digital unaffected.    
+**For that to happen, we have to know that ‘Color’ on Digital Compositing.**
+
+Gamut ( Gamma ) ----> Color space
+---------------------------------
+Color space is space that express color system on Three – dimensional
+
+
+
+RGB vs CMYK   
+-----------
+- **RGB(RED,  Green,  Blue)**  is additive color micture, so when you compose all color, it is more brighter. 
+It is usually use when design digital frame. 
+
+- **CMYK( Cyan, Magenta, Yellow, Key)** is subtractive micture, so when you compose all color, It is more darker. 
+It is usually use when design print frame.
+
+
+**You can also utilize this concept when you purchase monitor.**
+For Example) Adobe RGB VS SRGB
+
+
+
+
+
+
+
+
+
