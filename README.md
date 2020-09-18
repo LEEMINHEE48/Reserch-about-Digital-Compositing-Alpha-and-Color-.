@@ -31,4 +31,12 @@ So now I represent about principles and tech about Digitial Compositing.
 
 -	Matte painting and Digital Matte is the oldest VFX technique.
  It is a painted representation of a landscape, set or distant location that allows filmmakers to create the illusion of an environment that is not present at the filming location. Historically, matte painters and film technicians have used various techniques to combine a matte-painted image with live-action footage. At its best, depending on the skill levels of the artists and technicians, the effect is "seamless" and creates environments that would otherwise be impossible or expensive to film. In the scenes the painting part is static and movements are integrated on it.
+![MattePainting-TajMahalDay](https://user-images.githubusercontent.com/70868719/93623387-9fc78180-fa19-11ea-814a-e2d3b6ec382a.jpg)
+
+- Color Correction & Grading
+   Color correction: Color correction is a process used in stage lighting, photography, television, cinematography, and other disciplines, which uses color gels, or filters, to alter the overall color of the light. Typically the light color is measured on a scale known as color temperature, as well as along a green–magenta axis orthogonal to the color temperature axis.
+Without color correction gels, a scene may have a mix of various colors. Applying color correction gels in front of light sources can alter the color of the various light sources to match. Mixed lighting can produce an undesirable aesthetic when displayed on a television or in a theatre.
+
+   Color grading: Color grading is the process of improving the appearance of an image for presentation in different environments on different devices. Various attributes of an image such as contrast, color, saturation, detail, black level, and white point may be enhanced whether for motion pictures, videos, or still images. Color grading and color correction are often used synonymously as terms for this process and can include the generation of artistic color effects through creative blending and compositing of different images. Color grading is generally now performed in a digital process either in a controlled environment such as a color suite, or in any location where a computer can be used in dim lighting.
+   
 
