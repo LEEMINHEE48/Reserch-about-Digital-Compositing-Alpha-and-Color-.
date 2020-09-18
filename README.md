@@ -85,6 +85,7 @@ RGB vs CMYK
 - **RGB(RED,  Green,  Blue)**  is additive color micture, so when you compose all color, it is more brighter. 
 It is usually use when design digital frame. 
 
+![RGB-color-model](https://user-images.githubusercontent.com/70868719/93625079-4c0a6780-fa1c-11ea-8360-6ee3333e3e67.jpg)
 
 
 - **CMYK( Cyan, Magenta, Yellow, Key)** is subtractive micture, so when you compose all color, It is more darker. 
