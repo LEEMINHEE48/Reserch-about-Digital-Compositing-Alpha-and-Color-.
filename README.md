@@ -22,7 +22,12 @@ In modern film industry, Digitial Compositing technology is essential.
 So now I represent about principles and tech about Digitial Compositing.
 
 
-#	Chroma key compositing, or chroma keying, is a visual-effects and post-production technique for compositing (layering) two images or video streams together based on colour hues (chroma range)
+-	Chroma key compositing, or chroma keying, is a visual-effects and post-production technique for compositing (layering) two images or video streams together based on colour hues (chroma range)
+
+
 -	Rotoscoping is started by technique that Animator copy film footage because of animation charicter’s realistic motion. Today, VFX artists are using Rotoscoping because of that delete wire, safety device, some unessential object….ETC. 
--	Matte painting and Digital Matte is the oldest VFX technique.   
+
+
+-	Matte painting and Digital Matte is the oldest VFX technique.
+ It is a painted representation of a landscape, set or distant location that allows filmmakers to create the illusion of an environment that is not present at the filming location. Historically, matte painters and film technicians have used various techniques to combine a matte-painted image with live-action footage. At its best, depending on the skill levels of the artists and technicians, the effect is "seamless" and creates environments that would otherwise be impossible or expensive to film. In the scenes the painting part is static and movements are integrated on it.
 
