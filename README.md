@@ -77,6 +77,7 @@ Gamut ( Gamma ) ----> Color space
 ---------------------------------
 Color space is space that express color system on Three – dimensional
 
+![1200px-CIE1931xy_gamut_comparison svg](https://user-images.githubusercontent.com/70868719/93624906-09488f80-fa1c-11ea-95ca-da2cd38c3915.png)
 
 
 RGB vs CMYK   
@@ -84,8 +85,11 @@ RGB vs CMYK
 - **RGB(RED,  Green,  Blue)**  is additive color micture, so when you compose all color, it is more brighter. 
 It is usually use when design digital frame. 
 
+
+
 - **CMYK( Cyan, Magenta, Yellow, Key)** is subtractive micture, so when you compose all color, It is more darker. 
 It is usually use when design print frame.
+
 
 
 **You can also utilize this concept when you purchase monitor.**
