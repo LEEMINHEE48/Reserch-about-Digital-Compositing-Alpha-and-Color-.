@@ -1,1 +1,1 @@
-# Reserch-about-Digital-Compositing-Alpha-and-Color-.
+# Reserch about Digital Compositing,Alpha and Color.
