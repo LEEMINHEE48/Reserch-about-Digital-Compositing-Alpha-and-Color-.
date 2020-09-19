@@ -91,6 +91,7 @@ And If you want to know Color correction or grading process, you must know bleow
 **Luminance** : Luminance is a photometric measure of the luminous intensity per unit area of light travelling in a given direction. It describes the amount of light that passes through, is emitted from, or is reflected from a particular area, and falls within a given solid angle.
 
 
+![HSL_color_solid_dblcone](https://user-images.githubusercontent.com/70868719/93660221-6f1e3100-fa87-11ea-9e71-d14f8fb437f5.png)
 
 
 
