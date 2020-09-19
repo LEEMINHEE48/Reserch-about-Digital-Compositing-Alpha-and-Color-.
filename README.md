@@ -19,9 +19,10 @@ It can on some program for example ) Nuke, 3D Maya, Photoshop, Blackmagic Fusion
 ![blackmagic-fusion-interface](https://user-images.githubusercontent.com/70868719/93622702-8bcf5000-fa18-11ea-9ac8-2a450d527863.jpg)
 
 
-**In modern film industry, Digitial Compositing technology is essential. 
-So now I represent about principles and tech about Digitial Compositing.**
+**In modern film industry, Digitial Compositing technology is essential.** 
 
+So now I represent about principles and tech about Digitial Compositing.
+------------------------------------------------------------------------
 
 -	**Chroma key compositing, or chroma keying** is a visual-effects and post-production technique for compositing (layering) two images or video streams together based on colour hues (chroma range)
 
