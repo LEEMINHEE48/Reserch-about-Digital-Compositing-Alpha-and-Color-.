@@ -42,7 +42,8 @@ So now I represent about principles and tech about Digitial Compositing.
    
    Color correction: Color correction is a process used in stage lighting, photography, television, cinematography, and other disciplines, which uses color gels, or filters, to alter the overall color of the light. Typically the light color is measured on a scale known as color temperature, as well as along a green–magenta axis orthogonal to the color temperature axis.
 Without color correction gels, a scene may have a mix of various colors. Applying color correction gels in front of light sources can alter the color of the various light sources to match. Mixed lighting can produce an undesirable aesthetic when displayed on a television or in a theatre.
-
+     
+   
    Color grading: Color grading is the process of improving the appearance of an image for presentation in different environments on different devices. Various attributes of an image such as contrast, color, saturation, detail, black level, and white point may be enhanced whether for motion pictures, videos, or still images. Color grading and color correction are often used synonymously as terms for this process and can include the generation of artistic color effects through creative blending and compositing of different images. Color grading is generally now performed in a digital process either in a controlled environment such as a color suite, or in any location where a computer can be used in dim lighting.
    
 ![1c6996bbd101a9ed0e65cb709a85df06](https://user-images.githubusercontent.com/70868719/93623806-43189680-fa1a-11ea-9bc0-09033a7ae436.jpg)
@@ -79,6 +80,18 @@ Gamut ( Gamma ) ----> Color space
 Color space is space that express color system on Three – dimensional
 
 ![1200px-CIE1931xy_gamut_comparison svg](https://user-images.githubusercontent.com/70868719/93624906-09488f80-fa1c-11ea-95ca-da2cd38c3915.png)
+
+
+And If you want to know Color correction or grading process, you must know bleow concept.
+
+**Hue** : Hue is one of the main properties (called color appearance parameters) of a color, defined technically (in the CIECAM02 model) as "the degree to which a stimulus can be described as similar to or different from stimuli that are described as red, orange, yellow, green, blue, purple"[1] (which in certain theories of color vision are called unique hues).
+
+**Saturation** : Color saturation refers to the intensity of color in an image. As the saturation increases, the colors appear to be more pure. As the saturation decreases, the colors appear to be more washed-out or pale.
+
+**Luminance** : Luminance is a photometric measure of the luminous intensity per unit area of light travelling in a given direction. It describes the amount of light that passes through, is emitted from, or is reflected from a particular area, and falls within a given solid angle.
+
+
+
 
 
 RGB vs CMYK   
