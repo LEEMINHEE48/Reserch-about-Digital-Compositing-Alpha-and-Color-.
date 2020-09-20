@@ -115,13 +115,22 @@ For Example) Adobe RGB VS SRGB
 ![sRGB-vs-Adobe-RGB-photo-example](https://user-images.githubusercontent.com/70868719/93625425-dfdc3380-fa1c-11ea-8322-4e801d3dce9c.jpg)
 
 
+참고자료
+-------
 
+[Cg spectrum](https://www.cgspectrum.com/blog/what-is-compositing)
 
+[Wikipeadia](https://en.wikipedia.org/wiki/Compositing)
 
+[Wikipeadia](https://en.wikipedia.org/wiki/Color_space)
 
+[Wikipeadia](https://en.wikipedia.org/wiki/Matte_painting)
 
+[Inflearn] Davinci Resolve Lecture (Paid Service) 
 
+[Techtopia](https://www.techopedia.com/definition/1945/alpha-channel)
 
+[Techtopia](https://www.techopedia.com/definition/1945/alpha-channel)
 
-
+[premium Beat](https://www.premiumbeat.com/blog/chroma-key-green-screen-guide/)
 
