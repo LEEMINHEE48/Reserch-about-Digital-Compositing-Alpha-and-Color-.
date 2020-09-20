@@ -115,7 +115,7 @@ For Example) Adobe RGB VS SRGB
 ![sRGB-vs-Adobe-RGB-photo-example](https://user-images.githubusercontent.com/70868719/93625425-dfdc3380-fa1c-11ea-8322-4e801d3dce9c.jpg)
 
 
-참고자료
+Resources Used
 -------
 
 [Cg spectrum](https://www.cgspectrum.com/blog/what-is-compositing)
